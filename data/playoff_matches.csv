@@ -1,0 +1,17 @@
+match,home_team,away_team,elo_prob_home,result_home,advances,to_match,loses,penalties,stage
+0,,,,,,8,,,eigths_finals
+1,,,,,,8,,,eigths_finals
+2,,,,,,9,,,eigths_finals
+3,,,,,,9,,,eigths_finals
+4,,,,,,10,,,eigths_finals
+5,,,,,,10,,,eigths_finals
+6,,,,,,11,,,eigths_finals
+7,,,,,,11,,,eigths_finals
+8,,,,,,12,,,quarterfinals
+9,,,,,,12,,,quarterfinals
+10,,,,,,13,,,quarterfinals
+11,,,,,,13,,,quarterfinals
+12,,,,,,14,,,semifinals
+13,,,,,,14,,,semifinals
+14,,,,,,15,,,final
+15,,,,,,15,,,third_place
